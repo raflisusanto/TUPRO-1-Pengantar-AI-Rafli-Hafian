@@ -5,6 +5,7 @@ Muhamad Rafli Susanto - 1301204052
 Hafian Fathul Madani - 1301204116
 
 # Cara Menjalankan
+- Pilih versi .py atau yang .ipynb (bebas)
 - Import library random dan math
 - Run semua fungsinya terlebih dahulu
 - Run program utama
