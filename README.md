@@ -5,5 +5,6 @@ Muhamad Rafli Susanto - 1301204052
 Hafian Fathul Madani - 1301204116
 
 # Cara Menjalankan
-- Run semua import dan fungsinya terlebih dahulu
+- Import library random dan math
+- Run semua fungsinya terlebih dahulu
 - Run program utama
